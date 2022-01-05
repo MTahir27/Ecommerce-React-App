@@ -8,6 +8,7 @@
   --primarycolor: #d8644f;
   --white: #ffffff;
   --black: #000000;
+  --shadow: 0px 2px 5px rgb(0 0 0 / 10%);
 }
 
 body {
